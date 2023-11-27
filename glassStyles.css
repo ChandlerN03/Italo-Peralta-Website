@@ -1,0 +1,26 @@
+body{
+  background-color: #c85828;
+}
+h1{
+  color: white;
+  text-align: left;
+}
+main{
+  display: flex;
+  justify-content: center;
+  width: 80%;
+}
+h1{
+  font-size: 50px;
+}
+p{
+  font-weight: bold;
+  font-size: 25px;
+}
+.container{
+  height: 100%;
+}
+.glassImg{
+  height: 300px;
+  width: 300px;
+}
